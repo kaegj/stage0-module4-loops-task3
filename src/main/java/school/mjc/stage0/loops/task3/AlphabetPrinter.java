@@ -5,6 +5,5 @@ public class AlphabetPrinter {
         for(int i=97; i <= 122; i++){
             System.out.println((char) i);
         }
-        }
     }
 }
